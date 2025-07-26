@@ -1,5 +1,0 @@
-transformers
-torch
-gradio
-Pillow
-networkx==3.4
